@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
+=======
+hi
+>>>>>>> 723177041e4c9a00d7b708fd7e7c7c6ac9edb615
 hola 2 
